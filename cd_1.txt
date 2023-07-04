@@ -1,3 +1,5 @@
+this is the data unsed in the study of "Background and clustering characteristics of recent seismicity in Southwestern China", by Yue Liu, Jiancang Zhuang, Yicun Guo, Changsheng Jiang, Qinjian Tian, Yongxian Zhang, Feng Long.
+the format is: Beijing time, latitude, longitude, depth, magnitude
 2008-01-01 11:50:42.50 24.370 103.850   1 2.6
 2008-01-01 14:46:36.30 29.430 105.480   5 2.5
 2008-01-01 16:05:59.10 21.470  99.870  16 3.8
